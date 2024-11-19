@@ -22,7 +22,7 @@ We keep hearing from SREs that they typically see a lot of resistance for introd
 
 <img src={require("../assets/introduction/uses-of-litmus/overall-resilience.png").default} alt="Overall Resilience" />
 
-Chaos Engineering is a culture-oriented practice. With time, management buying and the SRE confidence will increase, and they move the chaos tests into production. This process will increase resilience metrics, as well.
+Chaos Engineering is a culture-oriented practice. With time, management buying and the SRE confidence will increase, as they move the chaos tests into production. This process will increase resilience metrics, as well.
 
 ## Learn more
 
